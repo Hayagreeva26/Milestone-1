@@ -1,17 +1,17 @@
 # Milestone-1
 CVAT installation instructions
 
-Go to this link https://opencv.github.io/cvat/docs/administration/basics/installation/ I use windows.I went to windows 10 section in the link and downloded the follwing:
+Use this link https://opencv.github.io/cvat/docs/administration/basics/installation/ I use windows.Go to the windows 10 section in the link and downloded the follwing:
 
 1.Docker Desktop for Windows
 
 2.Git for Windows
 
-3 .google chrome (if you don't have it installed before)
+3 .google chrome (You dont have to do this step if it is already installed)
 
 Install and run the downloaded Docker Desktop for Windows.exe
 
-Go to the Step 4 - Download the Linux kernel update package in this link https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package and dowload the package and install it.
+Now go to the Step 4 - Download the Linux kernel update package in this link https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package and dowload the package and install it.
 
 go to the windows power shell and run the command: wsl --set-default-version 2
 
