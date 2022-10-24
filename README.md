@@ -1,4 +1,4 @@
-# Milestone-1
+# Milestone 1
 CVAT installation instructions
 
 Use this link https://opencv.github.io/cvat/docs/administration/basics/installation/ I use windows.Go to the windows 10 section in the link and downloded the follwing:
